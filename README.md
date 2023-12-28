@@ -35,11 +35,11 @@ terraform apply -var "instance_name=MyNewNameEC2"
 ```
 
 
-main.tf         - file where the infrastructure is present
-varaibles.tf    - file in which variables are defined
-terraform.tfvars- file in which the variables are defined which can rename the defaults from variables
+- main.tf         - file where the infrastructure is present
+- varaibles.tf    - file in which variables are defined
+- terraform.tfvars- file in which the variables are defined which can rename the defaults from variables
                     use this insted of adding var when running terraform apply
-output.tf       - outputs data from the infrastructure
+- output.tf       - outputs data from the infrastructure
 
 
 to see outputs
