@@ -51,3 +51,5 @@ to remove infrastructure
 ```
 terraform destroy
 ```
+
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
