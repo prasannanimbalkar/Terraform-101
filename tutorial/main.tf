@@ -1,7 +1,7 @@
 #provider Block
 provider "aws" {
   profile = "user1"
-  region = "us-east-1"
+  region  = "us-east-1"
 }
 
 # Resouirces Block
